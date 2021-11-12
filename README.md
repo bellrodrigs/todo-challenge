@@ -19,26 +19,26 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Add new todos to the list
-- Mark todos as complete
-- Delete todos from the list
-- Filter by all/active/complete todos
-- Clear all completed todos
-- Toggle light and dark mode
-- **Bonus**: Drag and drop to reorder items on the list
+[x] View the optimal layout for the app depending on their device's screen size
+[x] See hover states for all interactive elements on the page
+[x] Add new todos to the list
+[x] Mark todos as complete
+[x] Delete todos from the list
+[x] Filter by all/active/complete todos
+[x] Clear all completed todos
+[x] Toggle light and dark mode
+[x] **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
 
-![Design preview for the Todo app coding challenge gif](./snapshot-gif.jpg)
+![Design preview for the Todo app coding challenge gif](./snapshot-gif.gif)
 ![Design preview for the Todo app coding challenge darkmode](./darkmode.jpg)
 ![Design preview for the Todo app coding challenge lightmode](./lightmode.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bellrodrigs/todo-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/bellrodrigs/todo-challenge)
+- Live Site URL: [Netlify](https://todo-dragndrop-challenge.netlify.app)
 
 ## My process
 
